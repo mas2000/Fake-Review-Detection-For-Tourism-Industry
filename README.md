@@ -32,6 +32,12 @@ After submiting city name it will create a post request to (tripadvisor.com) get
 
 ## After Submitting request it will Respond like this
 
+![3](https://user-images.githubusercontent.com/55358923/90038157-8460ac80-dcde-11ea-9314-abebdcb495eb.JPG)
+
+## After Selecting specific Restaurant you will get final Results
+
+
+
 
 
 
