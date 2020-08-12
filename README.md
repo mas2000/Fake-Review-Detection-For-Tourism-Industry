@@ -24,5 +24,11 @@ on python pyCharm. After successfuly running it both front-end and model will co
 
 Now Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## You will see like this
+
+![1](https://user-images.githubusercontent.com/55358923/90037356-8e35e000-dcdd-11ea-8549-079b903e6bce.JPG)
+
+here enter any city name that you want search...
+
 
 
