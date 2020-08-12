@@ -44,7 +44,7 @@ https://drive.google.com/file/d/1AXM77Zl324u6DxLV4FYaK9x2mZpd9DJP/view?usp=shari
 
 ## collaborate work
 Qamar Shahzad  (16201519-041)   <br/>
-Shaher yar     (16201519-125)   <br/>
+Shaheryar Shoukat     (16201519-125)   <br/>
 Nadeem Shahzad (16201519-129)
 
 
