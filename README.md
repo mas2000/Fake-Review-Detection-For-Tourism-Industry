@@ -43,8 +43,8 @@ After submiting city name it will create a post request to (tripadvisor.com) get
 https://drive.google.com/file/d/1AXM77Zl324u6DxLV4FYaK9x2mZpd9DJP/view?usp=sharing
 
 ## collaborate work
-Qamar Shahzad  (16201519-0410
-Shaher yar     (16201519-125)
+Qamar Shahzad  (16201519-041)   <br/>
+Shaher yar     (16201519-125)   <br/>
 Nadeem Shahzad (16201519-129)
 
 
