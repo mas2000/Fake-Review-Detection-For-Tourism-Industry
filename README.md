@@ -28,7 +28,13 @@ Now Open [http://localhost:3000](http://localhost:3000) to view it in the browse
 
 ![1](https://user-images.githubusercontent.com/55358923/90037356-8e35e000-dcdd-11ea-8549-079b903e6bce.JPG)
 
-here enter any city name that you want search...
+After submiting city name it will create a post request to (tripadvisor.com) get result api endpoint.
+
+## After Submitting request it will Respond like this
+
+
+
+
 
 
 
