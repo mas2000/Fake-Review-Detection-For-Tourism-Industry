@@ -17,7 +17,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ## Download Flask Model Api Available 
-https://drive.google.com/file/d/1_xlUQ_2OwiT88gKHZcgy07WrGRo361RH/view?usp=sharing
+https://drive.google.com/file/d/1J7r5-vOtX0gTdxaN1F62AGKCu2o08uw3/view?usp=sharing
 
 Then run api.py file 
 on python pyCharm. After successfuly running it both front-end and model will connected.
